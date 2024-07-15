@@ -1,0 +1,143 @@
+{
+  "WPFInstall": [
+    "WPFInstallhwinfo",
+    "WPFInstallsteam",
+    "WPFInstallATLauncher",
+    "WPFInstallbitwarden",
+    "WPFInstallsunshine",
+    "WPFInstallsidequest",
+    "WPFInstallgpuz",
+    "WPFInstallbarrier",
+    "WPFInstallangryipscanner",
+    "WPFInstalleaapp",
+    "WPFInstallmoonlight",
+    "WPFInstallddu",
+    "WPFInstalletcher",
+    "WPFInstalladvancedip",
+    "WPFInstallgog",
+    "WPFInstalldiscord",
+    "WPFInstallcpuz",
+    "WPFInstallopenrgb",
+    "WPFInstallpowertoys",
+    "WPFInstallthorium",
+    "WPFInstallpiimager",
+    "WPFInstallepicgames",
+    "WPFInstallubisoft",
+    "WPFInstall7zip",
+    "WPFInstallrufus",
+    "WPFInstallvscodium",
+    "WPFInstallvscode"
+  ],
+  "WPFFeature": [],
+  "Install": [
+    {
+      "winget": "REALiX.HWiNFO",
+      "choco": "hwinfo"
+    },
+    {
+      "winget": "Valve.Steam",
+      "choco": "steam-client"
+    },
+    {
+      "winget": "ATLauncher.ATLauncher",
+      "choco": "na"
+    },
+    {
+      "winget": "Bitwarden.Bitwarden",
+      "choco": "bitwarden"
+    },
+    {
+      "winget": "LizardByte.Sunshine",
+      "choco": "sunshine"
+    },
+    {
+      "winget": "SideQuestVR.SideQuest",
+      "choco": "sidequest"
+    },
+    {
+      "winget": "TechPowerUp.GPU-Z",
+      "choco": "gpu-z"
+    },
+    {
+      "winget": "DebaucheeOpenSourceGroup.Barrier",
+      "choco": "barrier"
+    },
+    {
+      "winget": "angryziber.AngryIPScanner",
+      "choco": "angryip"
+    },
+    {
+      "winget": "ElectronicArts.EADesktop",
+      "choco": "ea-app"
+    },
+    {
+      "winget": "MoonlightGameStreamingProject.Moonlight",
+      "choco": "moonlight-qt"
+    },
+    {
+      "winget": "ddu",
+      "choco": "ddu"
+    },
+    {
+      "winget": "Balena.Etcher",
+      "choco": "etcher"
+    },
+    {
+      "winget": "Famatech.AdvancedIPScanner",
+      "choco": "advanced-ip-scanner"
+    },
+    {
+      "winget": "GOG.Galaxy",
+      "choco": "goggalaxy"
+    },
+    {
+      "winget": "Discord.Discord",
+      "choco": "discord"
+    },
+    {
+      "winget": "CPUID.CPU-Z",
+      "choco": "cpu-z"
+    },
+    {
+      "winget": "CalcProgrammer1.OpenRGB",
+      "choco": "openrgb"
+    },
+    {
+      "winget": "Microsoft.PowerToys",
+      "choco": "powertoys"
+    },
+    {
+      "winget": "Alex313031.Thorium.AVX2",
+      "choco": "na"
+    },
+    {
+      "winget": "RaspberryPiFoundation.RaspberryPiImager",
+      "choco": "rpi-imager"
+    },
+    {
+      "winget": "EpicGames.EpicGamesLauncher",
+      "choco": "epicgameslauncher"
+    },
+    {
+      "winget": "Ubisoft.Connect",
+      "choco": "ubisoft-connect"
+    },
+    {
+      "winget": "7zip.7zip",
+      "choco": "7zip"
+    },
+    {
+      "winget": "Rufus.Rufus",
+      "choco": "rufus"
+    },
+    {
+      "winget": "VSCodium.VSCodium",
+      "choco": "vscodium"
+    },
+    {
+      "winget": "Microsoft.VisualStudioCode",
+      "choco": "vscode"
+    }
+  ],
+  "WPFTweaks": []
+}
