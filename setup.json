@@ -1,115 +1,155 @@
 {
+  "WPFFeature": [],
+  "WPFInstall": [
+    "WPFInstallgog",
+    "WPFInstallrufus",
+    "WPFInstallepicgames",
+    "WPFInstallmoonlight",
+    "WPFInstalldiscord",
+    "WPFInstallcopyq",
+    "WPFInstallOPAutoClicker",
+    "WPFInstallopenrgb",
+    "WPFInstallsunshine",
+    "WPFInstallnvclean",
+    "WPFInstallposh",
+    "WPFInstallhandbrake",
+    "WPFInstallpeazip",
+    "WPFInstallbitwarden",
+    "WPFInstallautohotkey",
+    "WPFInstallpiimager",
+    "WPFInstallhwmonitor",
+    "WPFInstallcrystaldiskmark",
+    "WPFInstallcrystaldiskinfo",
+    "WPFInstallpython3",
+    "WPFInstallpowertoys",
+    "WPFInstallthorium",
+    "WPFInstallfoobar",
+    "WPFInstallvscode",
+    "WPFInstallsidequest",
+    "WPFInstalletcher",
+    "WPFInstallsteam",
+    "WPFInstallubisoft",
+    "WPFInstallangryipscanner"
+  ],
+  "WPFTweaks": [
+    "WPFTweaksRestorePoint"
+  ],
   "Install": [
     {
-      "winget": "Alex313031.Thorium.AVX2",
-      "choco": "na"
-    },
-    {
-      "winget": "CPUID.HWMonitor",
-      "choco": "hwmonitor"
-    },
-    {
-      "winget": "Python.Python.3.12",
-      "choco": "python"
-    },
-    {
-      "winget": "CalcProgrammer1.OpenRGB",
-      "choco": "openrgb"
-    },
-    {
-      "winget": "AutoHotkey.AutoHotkey",
-      "choco": "autohotkey"
-    },
-    {
-      "winget": "Microsoft.VisualStudioCode",
-      "choco": "vscode"
-    },
-    {
-      "winget": "OPAutoClicker.OPAutoClicker",
-      "choco": "autoclicker"
+      "winget": "GOG.Galaxy",
+      "choco": "goggalaxy"
     },
     {
       "winget": "Rufus.Rufus",
       "choco": "rufus"
     },
     {
-      "winget": "Bitwarden.Bitwarden",
-      "choco": "bitwarden"
+      "winget": "EpicGames.EpicGamesLauncher",
+      "choco": "epicgameslauncher"
     },
     {
-      "winget": "RaspberryPiFoundation.RaspberryPiImager",
-      "choco": "rpi-imager"
-    },
-    {
-      "winget": "HandBrake.HandBrake",
-      "choco": "handbrake"
-    },
-    {
-      "winget": "CrystalDewWorld.CrystalDiskMark",
-      "choco": "crystaldiskmark"
-    },
-    {
-      "winget": "Microsoft.PowerToys",
-      "choco": "powertoys"
+      "winget": "MoonlightGameStreamingProject.Moonlight",
+      "choco": "moonlight-qt"
     },
     {
       "winget": "Discord.Discord",
       "choco": "discord"
     },
     {
-      "winget": "angryziber.AngryIPScanner",
-      "choco": "angryip"
+      "winget": "hluk.CopyQ",
+      "choco": "copyq"
     },
     {
-      "winget": "Giorgiotani.Peazip",
-      "choco": "peazip"
+      "winget": "OPAutoClicker.OPAutoClicker",
+      "choco": "autoclicker"
     },
     {
-      "winget": "Balena.Etcher",
-      "choco": "etcher"
+      "winget": "CalcProgrammer1.OpenRGB",
+      "choco": "openrgb"
     },
     {
-      "winget": "CrystalDewWorld.CrystalDiskInfo",
-      "choco": "crystaldiskinfo"
-    },
-    {
-      "winget": "JanDeDobbeleer.OhMyPosh",
-      "choco": "oh-my-posh"
+      "winget": "LizardByte.Sunshine",
+      "choco": "sunshine"
     },
     {
       "winget": "TechPowerUp.NVCleanstall",
       "choco": "na"
     },
     {
+      "winget": "JanDeDobbeleer.OhMyPosh",
+      "choco": "oh-my-posh"
+    },
+    {
+      "winget": "HandBrake.HandBrake",
+      "choco": "handbrake"
+    },
+    {
+      "winget": "Giorgiotani.Peazip",
+      "choco": "peazip"
+    },
+    {
+      "winget": "Bitwarden.Bitwarden",
+      "choco": "bitwarden"
+    },
+    {
+      "winget": "AutoHotkey.AutoHotkey",
+      "choco": "autohotkey"
+    },
+    {
+      "winget": "RaspberryPiFoundation.RaspberryPiImager",
+      "choco": "rpi-imager"
+    },
+    {
+      "winget": "CPUID.HWMonitor",
+      "choco": "hwmonitor"
+    },
+    {
+      "winget": "CrystalDewWorld.CrystalDiskMark",
+      "choco": "crystaldiskmark"
+    },
+    {
+      "winget": "CrystalDewWorld.CrystalDiskInfo",
+      "choco": "crystaldiskinfo"
+    },
+    {
+      "winget": "Python.Python.3.12",
+      "choco": "python"
+    },
+    {
+      "winget": "Microsoft.PowerToys",
+      "choco": "powertoys"
+    },
+    {
+      "winget": "Alex313031.Thorium.AVX2",
+      "choco": "na"
+    },
+    {
       "winget": "PeterPawlowski.foobar2000",
       "choco": "foobar2000"
+    },
+    {
+      "winget": "Microsoft.VisualStudioCode",
+      "choco": "vscode"
+    },
+    {
+      "winget": "SideQuestVR.SideQuest",
+      "choco": "sidequest"
+    },
+    {
+      "winget": "Balena.Etcher",
+      "choco": "etcher"
+    },
+    {
+      "winget": "Valve.Steam",
+      "choco": "steam-client"
+    },
+    {
+      "winget": "Ubisoft.Connect",
+      "choco": "ubisoft-connect"
+    },
+    {
+      "winget": "angryziber.AngryIPScanner",
+      "choco": "angryip"
     }
-  ],
-  "WPFFeature": [],
-  "WPFInstall": [
-    "WPFInstallthorium",
-    "WPFInstallhwmonitor",
-    "WPFInstallpython3",
-    "WPFInstallopenrgb",
-    "WPFInstallautohotkey",
-    "WPFInstallvscode",
-    "WPFInstallOPAutoClicker",
-    "WPFInstallrufus",
-    "WPFInstallbitwarden",
-    "WPFInstallpiimager",
-    "WPFInstallhandbrake",
-    "WPFInstallcrystaldiskmark",
-    "WPFInstallpowertoys",
-    "WPFInstalldiscord",
-    "WPFInstallangryipscanner",
-    "WPFInstallpeazip",
-    "WPFInstalletcher",
-    "WPFInstallcrystaldiskinfo",
-    "WPFInstallposh",
-    "WPFInstallnvclean",
-    "WPFInstallfoobar"
-  ],
-  "WPFTweaks": [
-    "WPFTweaksRestorePoint"
   ]
 }
